@@ -1,5 +1,5 @@
 
-### 实现面向对象的方式实现 Tab 组件
+# 实现面向对象的方式实现 Tab 组件
 
 > [预览](https://caisenyu-n.github.io/js-component-tab/)
 
